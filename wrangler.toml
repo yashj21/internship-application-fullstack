@@ -1,4 +1,4 @@
-name = "{{project-name}}"
+name = "cloudflare_yash"
 type = "javascript"
 account_id = ""
 workers_dev = true
